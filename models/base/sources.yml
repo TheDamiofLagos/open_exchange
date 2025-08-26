@@ -1,7 +1,7 @@
 version: 2
 sources:
   - name: open_exchange
-    database: open-exchange-469422
+    database: open-exchange-us
     schema: rates_raw
     tables:
       - name: open_exchange_currency_raw
